@@ -1,0 +1,21 @@
+/*
+Corina Chen
+IntroCS pd05 sec08
+HW05 -- Stuylin'
+2021-02-22
+*/
+
+.first {
+	background-color: #d6a9d9
+}
+h1 {
+	color: #0e0480
+}
+
+h2 {
+	font: bold 1.2em "Fira Sans", serif
+}
+
+p {
+  font-size: 1em;
+}
